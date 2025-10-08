@@ -1,9 +1,9 @@
 void main(){
-  Set<String> numbers = {};
+  // Set<String> numbers = {};
 
   var names = <String>{};
 
-  final numberdouble = <String>{};
+  // final numberdouble = <String>{};
 
   names.add('eko');
   names.add('kurniawan');

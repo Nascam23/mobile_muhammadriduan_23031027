@@ -1,7 +1,7 @@
 void main(){
-  List<String> nama = ['duan', 'rey'];
+  List<String> nama = [];
 
-  var listString = <String>[];
+  // var listString = <String>[];
 
   nama.add('eko');
   nama.add('budi');
