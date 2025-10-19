@@ -11,8 +11,7 @@ void main() {
   // Number ke String
   final String stringFromInt = inputInt.toString();
   final String stringFromDouble = inputDouble.toString();
-
-  // Cetak hasil konversi
+  
   print('inputString: $inputString');
   print('inputInt: $inputInt');
   print('inputDouble: $inputDouble');
@@ -20,4 +19,5 @@ void main() {
   print('intFromDouble: $intFromDouble');
   print('stringFromInt: $stringFromInt');
   print('stringFromDouble: $stringFromDouble');
+
 }
