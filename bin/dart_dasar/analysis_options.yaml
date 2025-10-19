@@ -1,0 +1,8 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  errors:
+    always_specify_types: ignore
+    prefer_const_declarations: ignore
+    omit_local_variable_types: ignore
+    unnecessary_string_interpolations: ignore
