@@ -7,4 +7,7 @@ void main(){
   person['second'] = 'kurniawan';
   person['third'] = 'khannedy';
   print(person['second']);
+
+  person ['third'] = 'Nugraha';
+  print(person);
 }
